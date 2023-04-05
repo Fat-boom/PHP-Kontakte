@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Loko",
+        "phone": "25569878"
+    },
+    {
+        "name": "Kai",
+        "phone": "25569878"
+    },
+    {
+        "name": "Andrej",
+        "phone": "0155566966587"
+    },
+    {
+        "name": "Sandra",
+        "phone": "0235874879"
+    },
+    {
+        "name": "Sandra",
+        "phone": "0235874879"
+    },
+    {
+        "name": "Sandra",
+        "phone": "0235874879"
+    },
+    {
+        "name": "Andrej",
+        "phone": "7896548"
+    }
+]
